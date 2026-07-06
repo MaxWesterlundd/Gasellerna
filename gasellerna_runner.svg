@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="35 10 285 190" role="img" aria-label="Gasellerna löparklubb, logga">
+  <g fill="#E8933A">
+    <!-- torso -->
+    <ellipse cx="148" cy="114" rx="66" ry="27" transform="rotate(-8 148 114)"/>
+    <!-- neck + head, one piece to avoid a seam -->
+    <polygon points="200,118 207,82 258,69 306,96 250,120"/>
+    <!-- horns -->
+    <polygon points="240,68 251,72 232,30 224,32"/>
+    <polygon points="251,72 262,76 248,36 240,38"/>
+    <!-- tail -->
+    <polygon points="84,97 84,111 50,85"/>
+    <!-- hind leg (trailing, extended back) -->
+    <polygon points="99,127 112,123 56,147 47,152"/>
+    <!-- hind leg (tucked) -->
+    <polygon points="116,131 129,127 110,179 98,184"/>
+    <!-- front leg (tucked, bent) -->
+    <polygon points="199,119 212,123 221,167 211,171"/>
+    <!-- front leg (extended forward) -->
+    <polygon points="214,124 229,127 271,180 260,185"/>
+  </g>
+</svg>

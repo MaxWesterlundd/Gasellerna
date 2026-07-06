@@ -1,0 +1,23 @@
+{
+  "club": {
+    "id": "1572790",
+    "name": "Gasellerna Runclub AB",
+    "stravaUrl": "https://www.strava.com/clubs/1572790",
+    "activityWidgetUrl": "https://www.strava.com/clubs/1572790/latest-rides/0e1643f58e2b6f094d4c0011ff181517324e71f3?show_rides=true",
+    "summaryWidgetUrl": "https://www.strava.com/clubs/1572790/latest-rides/0e1643f58e2b6f094d4c0011ff181517324e71f3?show_rides=false"
+  },
+  "countdowns": [
+    {
+      "id": "copenhagen-marathon-2027",
+      "name": "Copenhagen Marathon",
+      "location": "Köpenhamn",
+      "date": "2027-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "goteborgsvarvet-2027",
+      "name": "Göteborgsvarvet",
+      "location": "Göteborg",
+      "date": "2027-05-22T13:00:00+02:00"
+    }
+  ]
+}
