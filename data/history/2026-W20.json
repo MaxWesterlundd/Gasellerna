@@ -1,0 +1,29 @@
+{
+  "isoWeek": "2026-W20",
+  "weekLabel": "v.20",
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-17",
+  "totalKm": 4.1,
+  "winner": "Sixten Sahlin",
+  "isPartial": false,
+  "standings": [
+    {
+      "name": "Sixten Sahlin",
+      "km": 4.1
+    }
+  ],
+  "activities": [
+    {
+      "id": "18467249464",
+      "athleteId": "32700077",
+      "athleteName": "Sixten Sahlin",
+      "title": "Löpning på kvällen",
+      "distanceKm": 4.1,
+      "movingTimeSec": 1171,
+      "elevationM": 37,
+      "date": "2026-05-11",
+      "isoWeek": "2026-W20",
+      "fetchedAt": "2026-07-07"
+    }
+  ]
+}

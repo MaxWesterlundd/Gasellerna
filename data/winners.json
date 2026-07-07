@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-07-06T22:44:26.798Z",
-  "weeks": {},
-  "winCounts": {}
+  "generatedAt": "2026-07-07T15:12:19.248Z",
+  "weeks": {
+    "2026-W20": {
+      "winner": "Sixten Sahlin",
+      "km": 4.1,
+      "standings": [
+        {
+          "name": "Sixten Sahlin",
+          "km": 4.1
+        }
+      ]
+    }
+  },
+  "winCounts": {
+    "Sixten Sahlin": 1
+  }
 }
