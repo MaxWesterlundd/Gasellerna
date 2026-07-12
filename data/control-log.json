@@ -38,5 +38,13 @@
     "distanceKm": 55.3,
     "timeSec": 18420,
     "elevationM": 668
+  },
+  {
+    "fetchedAt": "2026-07-12",
+    "weekLabel": "Week of Jul 6, 2026 - Jul 12, 2026",
+    "activitiesCount": null,
+    "distanceKm": 60.3,
+    "timeSec": 19680,
+    "elevationM": 671
   }
 ]
