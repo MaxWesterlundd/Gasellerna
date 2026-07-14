@@ -1,10 +1,11 @@
 name: Uppdatera Strava-data
 
 on:
-  schedule:
-    # 05:00 UTC dagligen. Aktivitetswidgeten visar bara de senaste ~5 aktiviteterna,
-    # så den här körningen måste vara daglig för att inte tappa data.
-    - cron: '0 5 * * *'
+  # Schemat borttaget 2026-07-14 — projektet är pausat. Återaktivera den dagliga
+  # körningen genom att lägga tillbaka:
+  #   schedule:
+  #     - cron: '0 5 * * *'
+  # (Widgeten visar bara ~5 aktiviteter, så körningen måste vara daglig.)
   workflow_dispatch: {}
 
 permissions:
